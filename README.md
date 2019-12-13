@@ -1,4 +1,4 @@
-# [Youtube Uploader Bot](https://t.me/youtubeitbot)
+# [Youtube Uploader Bot](https://t.me/ytubeulbot)
 
 
 
@@ -8,18 +8,18 @@
 
 ### Contents
 
-* [Info](https://github.com/odysseusmax/utube#info)
-* [Libraries Used](https://github.com/odysseusmax/utube#libraries-used)
-* [Setup](https://github.com/odysseusmax/utube#setup)
-* [Status](https://github.com/odysseusmax/utube#status)
-* [Special Notes](https://github.com/odysseusmax/utube#special-notes)
-* [Screenshots](https://github.com/odysseusmax/utube#screenshots)
-* [Video Tutorial](https://github.com/odysseusmax/utube#video-tutorial)
-* [Contact](https://github.com/odysseusmax/utube#contact)
+* [Info](https://github.com/ZAINULHIBATH/YTULbot#info)
+* [Libraries Used](https://github.com/ZAINULHIBATH/YTULbot#libraries-used)
+* [Setup](https://github.com/ZAINULHIBATH/YTULbot#setup)
+* [Status](https://github.com/ZAINULHIBATH/YTULbot#status)
+* [Special Notes](https://github.com/ZAINULHIBATH/YTULbot#special-notes)
+* [Screenshots](https://github.com/ZAINULHIBATH/YTULbot#screenshots)
+* [Video Tutorial](https://github.com/ZAINULHIBATH/YTULbot#video-tutorial)
+* [Contact](https://github.com/ZAINULHIBATH/YTULbot#contact)
 
 ### Info
 
-This is a simple hobby project which i was really curious about to impliment. This is a Telegram bot which uses [Youtube Data API v3](https://developers.google.com/youtube/v3/ "Youtube Data API v3") to upload videos to Youtube. This bot uses [OAuth 2.0](https://en.wikipedia.org/wiki/OAuth#OAuth_2.0 "OAuth 2,0") to connect to your Youtube Channel.
+This is a simple hobby project which i was really curious about to impliment. This is a Telegram bot which uses [Youtube Data API v3](https://developers.google.com/youtube/v3/ "Youtube Data API v3") to upload videos to Youtube. This bot uses [OAuth 2.0](https://en.wikipedia.org/wiki/OAuth#OAuth_2.0 "OAuth 2,0") to connect to your Youtube Channel. 
 
 ### Libraries Used
 
@@ -80,7 +80,7 @@ If you did everything correctly, the bot should be running. Go do `/start` to se
 
 **Or the easy way of directly deploying to heroku**
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/odysseusmax/utube/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZAINULHIBATH/YTULbot/tree/master)
 
 
 
@@ -99,30 +99,19 @@ This project is actively maintained and will continue so until I'm tired of it.
 ### Screenshots
 <p align="center">
 
-<img  width="25%" height="25%" src="https://github.com/odysseusmax/utube/blob/master/ss/overview.jpg">
+<img  width="25%" height="25%" src="https://github.com/ZAINULHIBATH/YTULbot/blob/master/ss/overview.jpg">
 
-<img  width="25%" height="25%" src="https://github.com/odysseusmax/utube/blob/master/ss/bot-start.jpg">
+<img  width="25%" height="25%" src="https://github.com/ZAINULHIBATH/YTULbot/blob/master/ss/bot-start.jpg">
 
-<img  width="25%" height="25%" src="https://github.com/odysseusmax/utube/blob/master/ss/bot-help.jpg">
+<img  width="25%" height="25%" src="https://github.com/ZAINULHIBATH/YTULbot/blob/master/ss/bot-help.jpg">
 
-<img  width="25%" height="25%" src="https://github.com/odysseusmax/utube/blob/master/ss/bot-authorise.jpg">
+<img  width="25%" height="25%" src="https://github.com/ZAINULHIBATH/YTULbot/blob/master/ss/bot-authorise.jpg">
 
-<img  width="25%" height="25%" alt="Upload" src="https://github.com/odysseusmax/utube/blob/master/ss/bot-upload.jpg">
+<img  width="25%" height="25%" alt="Upload" src="https://github.com/ZAINULHIBATH/YTULbot/blob/master/ss/bot-upload.jpg">
 
-</p>
-
-### Video Tutorial
-
-<p align="center">
-           <a href="http://www.youtube.com/watch?feature=player_embedded&v=LSs8b5dMWIA" target="_blank">
-                      <img src="http://img.youtube.com/vi/LSs8b5dMWIA/hqdefault.jpg" alt="How To Make Telegram Bot For YouTube Videos Uploading" />
-           </a>
-</p>
-<p align="center">
-           <b>Video Tutorial</b>
 </p>
 
 ### Contact
 
 Share the FeedBack and Suggestions with me.
-You can contact me [Here](https://telegram.dog/odysseusmax "Contact me")
+You can contact me [Here](https://telegram.dog/zainstech "Contact me")
